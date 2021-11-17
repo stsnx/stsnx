@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-github ของคนใช้ git ไม่เป็น กับการ push มั่ว ๆ ซั่ว ๆ ของเขา
+github ของคนใช้ git ไม่เป็น กับการ push มั่ว ๆ ซั่ว ๆ ของเขา<br/>
 何度でも出会い 廻るこの世界で
 私たちの戦争＜デート＞始めましょう<br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stsnx&theme=tokyonight)
