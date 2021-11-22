@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 github ของคนใช้ git ไม่เป็น กับการ push มั่ว ๆ ซั่ว ๆ ของเขา<br/>
 何度でも出会い 廻るこの世界で
 私たちの戦争＜デート＞始めましょう<br/>
+![](https://komarev.com/ghpvc/?username=stsnx&color=grey&style=flat-square&label=Visitor+>>>)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stsnx&theme=tokyonight)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stsnx)](https://github.com/anuraghazra/github-readme-stats)
