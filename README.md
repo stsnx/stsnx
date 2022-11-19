@@ -20,4 +20,4 @@ github ของคนใช้ git ไม่เป็น กับการ pus
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stsnx&theme=tokyonight)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stsnx)](https://github.com/anuraghazra/github-readme-stats)
-![snake gif](https://github.com/Suratan63011017/Suratan63011017/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/stsnx/stsnx/blob/output/github-contribution-grid-snake.gif)
